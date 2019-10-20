@@ -1,0 +1,14 @@
+D:\Ильягу\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Ильягу\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Ильягу\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Ильягу\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Ильягу\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Ильягу\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Ильягу\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Ильягу\3 семестр\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Ильягу\3 семестр\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Ильягу\3 семестр\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Ильягу\3 семестр\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Ильягу\3 семестр\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Ильягу\3 семестр\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Ильягу\3 семестр\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
