@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Title = "Нагдимаев ИУ5-35б";
+            Console.Title = "Нагдимаев Ильягу, ИУ5-35Б";
             double a;
             double b;
             double c;
