@@ -1,0 +1,7 @@
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\obj\Debug\Lab.1.csprojAssemblyReference.cache
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\obj\Debug\Lab.1.csproj.CoreCompileInputs.cache
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\bin\Debug\Lab.1.exe.config
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\bin\Debug\Lab.1.exe
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\bin\Debug\Lab.1.pdb
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\obj\Debug\Lab.1.exe
+D:\Ильягу\3 семестр\BKIT 3 semestr\Lab.1\obj\Debug\Lab.1.pdb
