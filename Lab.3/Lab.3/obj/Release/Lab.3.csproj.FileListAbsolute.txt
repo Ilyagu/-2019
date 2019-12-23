@@ -1,0 +1,6 @@
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\bin\Release\Lab.3.exe.config
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\bin\Release\Lab.3.exe
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\bin\Release\Lab.3.pdb
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\obj\Release\Lab.3.csproj.CoreCompileInputs.cache
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\obj\Release\Lab.3.exe
+D:\Ильягу\3 семестр\BKIT 3 sem\Lab.3\obj\Release\Lab.3.pdb
